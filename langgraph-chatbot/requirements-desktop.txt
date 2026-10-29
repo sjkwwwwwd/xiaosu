@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# 桌面版额外需要（网页版不需要）
+pywebview>=5.0
